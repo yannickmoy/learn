@@ -3,8 +3,8 @@
 
 :nextprev_state: False
 
-SPARK for the MISRA-C Developer
-===============================
+SPARK Ada for the MISRA C Developer
+===================================
 
 .. container:: content-description
 
